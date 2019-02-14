@@ -59,7 +59,7 @@ nouns = [
     'roll', 'room', 'rub', 'rule', 'run',
     'salt', 'sand', 'scale', 'science', 'sea',
     'seat', 'secretary', 'selection', 'self', 'sense',
-    'servant', 'sex', 'shade', 'shake', 'shame',
+    'servant', 'shade', 'shake', 'shame',
     'shock', 'side', 'sign', 'silk', 'silver',
     'sister', 'size', 'sky', 'sleep', 'slip',
     'slope', 'smash', 'smell', 'smile', 'smoke',
