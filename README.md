@@ -5,7 +5,7 @@ A very basic method to create repl.it style URL's.
 
 ### Examples:
 
-`AngrySillyNeedle
+```AngrySillyNeedle
 MeltedFutureMatch
 StrongUnkemptProse
 StickySillyThumb
@@ -17,4 +17,4 @@ TinklingLoudComfort
 BroadEnoughMother
 HighBillionsTax
 FutureChubbyTown
-`
+```
